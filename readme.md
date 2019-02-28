@@ -5,3 +5,5 @@
 - Animated
 - LayoutAnimation
 - PanResponder
+
+You can check it out on [expo](https://expo.io/@issatoyin/tinder-app)

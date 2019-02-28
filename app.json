@@ -4,10 +4,7 @@
     "slug": "tinder-app",
     "privacy": "public",
     "sdkVersion": "32.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,8 +23,8 @@
     "android": {
       "package": "com.issatoyin.tinder"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
+    "description": "Keep Swiping",
+    "githubUrl": "https://github.com/emaitee/TinderClone"
   }
 }
